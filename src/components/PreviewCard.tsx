@@ -18,12 +18,12 @@ const PreviewCard = () => {
 						<p className="tracking-[.3rem] font-montserrat text-dark-grayish-blue text-xs">
 							PERFUME
 						</p>
-						<h3 className="text-3xl leading-tight tracking-tight font-fraunces">
+						<h3 className="text-3xl leading-[1] tracking-tight font-fraunces">
 							Gabrielle <br />Essence Eau <br />De Parfum
 						</h3>
 						<p className="text-sm tracking-wider text-dark-grayish-blue">
-							A floral, solar and voluptuous interpretation composed by Olivier
-							Polge, Perfumer-Creator for the House of CHANEL.
+							A floral, solar and voluptuous <br />interpretation composed by <br />Olivier
+							Polge, Perfumer-Creator <br />for the House of CHANEL.
 						</p>
 						<div className="flex items-center">
 							<p className="text-3xl text-dark-cyan font-fraunces">$149.99</p>
@@ -41,7 +41,7 @@ const PreviewCard = () => {
 										className="object-contain pr-3"
 										alt=""
 									/>
-									<p className="font-bold">Add to Cart</p>
+									<p>Add to Cart</p>
 								</span>
 							</button>
 						</div>
