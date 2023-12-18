@@ -19,7 +19,7 @@ const PreviewCard = () => {
 							PERFUME
 						</p>
 						<h3 className="text-3xl leading-[1] tracking-tight font-fraunces">
-							Gabrielle Essence Eau De Parfum
+							Gabrielle Essence Eau <br />De Parfum
 						</h3>
 						<p className="text-sm tracking-wider text-dark-grayish-blue">
 							A floral, solar and voluptuous interpretation composed by Olivier
